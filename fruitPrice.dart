@@ -14,6 +14,11 @@ void applyPriceDiscount(List<Map<String, dynamic>> fruits, double discountPercen
   }
 }
 
+
+
+
+
+
 void main() {
   List<Map<String, dynamic>> fruits = [
     {'name': 'Apple', 'color': 'Red', 'price': 2.5},
